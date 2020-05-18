@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="500.0" prefWidth="800.0" style="-fx-background-color: #FFFFFF;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="chat.client.MainController">
+   <children>
+      <Label layoutX="261.0" layoutY="117.0" text="LocalChat" textFill="#790dab">
+         <font>
+            <Font name="Jokerman" size="54.0" />
+         </font>
+      </Label>
+      <Button fx:id="registrationButton" layoutX="613.0" layoutY="37.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" style="-fx-background-color: #9d33b8;" text="Sign up" textFill="#f8f8f8">
+         <font>
+            <Font name="Segoe UI" size="15.0" />
+         </font>
+      </Button>
+      <TextField fx:id="loginField" layoutX="258.0" layoutY="223.0" prefHeight="30.0" prefWidth="283.0" promptText="Login">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </TextField>
+      <PasswordField fx:id="passwordField" layoutX="258.0" layoutY="270.0" prefHeight="13.0" prefWidth="283.0" promptText="Password">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </PasswordField>
+      <Label fx:id="labelForFails" layoutX="258.0" layoutY="307.0" prefHeight="13.0" prefWidth="283.0" textFill="#bf0c0c">
+         <font>
+            <Font size="13.0" />
+         </font></Label>
+      <Button fx:id="signInButton" layoutX="324.0" layoutY="332.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" style="-fx-background-color: #9d33b8;" text="Sign in" textFill="#f8f8f8">
+         <font>
+            <Font name="Segoe UI" size="15.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

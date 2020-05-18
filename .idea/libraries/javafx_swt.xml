@@ -1,0 +1,49 @@
+<component name="libraryTable">
+  <library name="javafx-swt">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../javafx-sdk-11.0.2/lib/javafx-swt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javafx-sdk-11.0.2/lib/javafx.base.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javafx-sdk-11.0.2/lib/javafx.controls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javafx-sdk-11.0.2/lib/javafx.fxml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javafx-sdk-11.0.2/lib/javafx.graphics.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../javafx-sdk-11.0.2/lib/javafx.media.jar!/" />
+      <root url="file://$PROJECT_DIR$/.." />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/.." />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../Calculator2/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../Calculator2/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../Calculator/src" />
+      <root url="file://$PROJECT_DIR$/ClientModule/src" />
+      <root url="file://$PROJECT_DIR$/../Chat/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../CommandPattern/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../GradleJavaFX/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../JavaFX Navigation Drawer/src" />
+      <root url="file://$PROJECT_DIR$/../JavaFX-Chat-master/client/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../JavaFX-Chat-master/server/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../JavaFXMaven/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../JavaFX/src" />
+      <root url="file://$PROJECT_DIR$/../MVCSimpleCalculator/src" />
+      <root url="file://$PROJECT_DIR$/../MineSweeper2/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../MineSweeper/src" />
+      <root url="file://$PROJECT_DIR$/../NeuralNetwork/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../SomeProject/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../TelegramBot/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../project5/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../test2Project/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../test3Project/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../test4project/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../test7/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../testForJar/src" />
+      <root url="file://$PROJECT_DIR$/../testJarGradle/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../testProject/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../test/src" />
+      <root url="file://$PROJECT_DIR$/../untitled1/src" />
+      <root url="file://$PROJECT_DIR$/../wordsCounter/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/.." recursive="false" />
+  </library>
+</component>
